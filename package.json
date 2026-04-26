@@ -1,0 +1,35 @@
+{
+  "name": "chai-ui-engine",
+  "version": "1.0.3",
+  "description": "A lightweight utility-first CSS engine that turns chai-* classes into inline styles directly in the browser.",
+  "main": "dist/chai-tailwind.js",
+  "browser": "dist/chai-tailwind.js",
+  "unpkg": "dist/chai-tailwind.min.js",
+  "jsdelivr": "dist/chai-tailwind.min.js",
+  "bin": {
+    "chai-engine": "cli.js"
+  },
+  "exports": {
+    ".": "./dist/chai-tailwind.js"
+  },
+  "files": [
+    "dist",
+    "chai.js",
+    "cli.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "start": "node cli.js .",
+    "test": "node tests/engine.test.js",
+    "test:perf": "node tests/performance.test.js"
+  },
+  "keywords": [
+    "chai-tailwind",
+    "utility-first",
+    "css-engine",
+    "client-side",
+    "tailwind-alternative"
+  ],
+  "license": "MIT"
+}
