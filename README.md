@@ -20,7 +20,7 @@ npm install chai-ui-engine
 
 The engine scans the DOM, converts `chai-*` classes into inline styles, resolves conflicts with last-class-wins behavior, and optionally keeps watching the DOM with `MutationObserver`.
 
-## CLI engine
+## CLI engine start command 
 
 If you want to convert `chai-*` classes into inline `style=""` attributes directly inside HTML files, run:
 
