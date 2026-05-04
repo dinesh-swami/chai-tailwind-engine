@@ -5,7 +5,7 @@ Chai-Tailwind is a lightweight utility-first CSS engine inspired by Tailwind CSS
 ## Install
 
 ```bash
-npm install chai-tailwind
+npm i chai-ui-engine
 ```
 
 ## Use
