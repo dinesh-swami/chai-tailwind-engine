@@ -1,6 +1,6 @@
 # Chai-Tailwind
 
-Chai-Tailwind is a lightweight utility-first CSS engine inspired by Tailwind CSS, but it runs entirely in the browser with no JIT compiler, no build step, and no backend dependency.
+Chai-Tailwind is a lightweight utility-first CSS engine inspired by Tailwind CSS, but it runs entirely in the browser with no JIT compiler, no build step, and no backend dependency. 
 
 ## Install
 
